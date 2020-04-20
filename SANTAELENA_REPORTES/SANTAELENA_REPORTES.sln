@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SANTAELENA_REPORTES", "SANTAELENA_REPORTES\SANTAELENA_REPORTES.rptproj", "{CE4AA4B9-CEBB-463C-BFF7-01529C7A3AD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE4AA4B9-CEBB-463C-BFF7-01529C7A3AD0}.Debug|Default.ActiveCfg = Debug
+		{CE4AA4B9-CEBB-463C-BFF7-01529C7A3AD0}.Debug|Default.Build.0 = Debug
+		{CE4AA4B9-CEBB-463C-BFF7-01529C7A3AD0}.Debug|Default.Deploy.0 = Debug
+		{CE4AA4B9-CEBB-463C-BFF7-01529C7A3AD0}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{CE4AA4B9-CEBB-463C-BFF7-01529C7A3AD0}.DebugLocal|Default.Build.0 = DebugLocal
+		{CE4AA4B9-CEBB-463C-BFF7-01529C7A3AD0}.Release|Default.ActiveCfg = Release
+		{CE4AA4B9-CEBB-463C-BFF7-01529C7A3AD0}.Release|Default.Build.0 = Release
+		{CE4AA4B9-CEBB-463C-BFF7-01529C7A3AD0}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {226C6FEA-107E-4D89-9656-5080658341D2}
+	EndGlobalSection
+EndGlobal
