@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource_adSanta_Elena">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=SERVERBD\CONTPAQI;Initial Catalog=adSanta_Elena</ConnectString>
+    <Prompt>Especifique un nombre de usuario y una contraseña para el origen de datos DataSource_adSanta_Elena:</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>282b074b-ad30-4cf6-80c7-7cffc333bf5a</DataSourceID>
+</RptDataSource>
